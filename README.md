@@ -16,7 +16,7 @@
   - [Product Data Management (PDM) Software](#pdm-software)
   - [Product Lifecycle Management (PLM) Software](#plm-software)
   - [Web Based Engineering Collaboration Tools](#web-based-engineering-collaboration-tools)
-- [Fabrication & Sourcing](#fabrication-&-sourcing)
+- [Fabrication & Sourcing](#fabrication-and-sourcing)
   - [Mechanical Fabrication Services](#mechanical-fabrication-services)
   - [PCB Fabrication Services](#pcb-fabrication-services)
   - [Parts Aggregrators](#parts-aggregators)
@@ -96,7 +96,7 @@
 - [Dragon Innovation Planner](https://tools.dragoninnovation.com/planner)
 - [Dozuki](http://www.dozuki.com/)
 
-## Fabrication & Sourcing
+## Fabrication and Sourcing
 
 ### Mechanical Fabrication Services
 - [Fictiv](https://www.fictiv.com/)
@@ -178,7 +178,7 @@
 - [Re:3D](https://re3d.org/)
 - [Sparkfun](https://www.sparkfun.com/)
 - [Adafruit](https://www.adafruit.com/)
-- [SainSmart] (https://www.sainsmart.com/)
+- [SainSmart](https://www.sainsmart.com/)
 - [FarmBot](https://farmbot.io/)
 - [Open Source Beehives](https://www.osbeehives.com/)
 
