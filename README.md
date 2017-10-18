@@ -19,7 +19,7 @@
 - [Fabrication & Sourcing](#fabrication-&-sourcing)
   - [Mechanical Fabrication Services](#mechanical-fabrication-services)
   - [PCB Fabrication Services](#pcb-fabrication-services)
-  - [Parts Aggregrators](#parts-aggregrators)
+  - [Parts Aggregrators](#parts-aggregators)
   - [Parts Suppliers](#parts-suppliers)
   - [BOM Sourcing](#bom-sourcing)
 - [Open Source Hardware](#open-source-hardware)
@@ -98,7 +98,7 @@
 
 ## Fabrication & Sourcing
 
-### Mechanical Fabricaiton Services
+### Mechanical Fabrication Services
 - [Fictiv](https://www.fictiv.com/)
 - [Abricate](http://abricate.com/)
 - [Proto Labs](https://www.protolabs.com/)
@@ -112,7 +112,7 @@
 - [3D Hubs](https://www.3dhubs.com/)
 - [Voodoo Manufacturing](https://voodoomfg.com/)
   
-### PCB Fabricaiton Services
+### PCB Fabrication Services
 - [Tempo Automation](http://www.tempoautomation.com/)
 - [OSH Park](https://oshpark.com/)
 - [Seeed Studio](https://www.seeedstudio.com/)
