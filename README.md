@@ -29,6 +29,7 @@
   - [Companies](#companies)
   - [Organizations](#organizations)
 - [Misc](#misc)
+  - [Marketplaces](#marketplaces)
   - [Incubators, Accelerators, & Funds](#incubators,-accelerators,-&-funds)
   - [Blogs & Newsletters](#blogs-&-newsletters)
   - [Guides & Published Resources](#guides-&-pulbished-resources)
@@ -62,62 +63,82 @@
 ### Electrical CAD Software 
 
 - [Altium Designer](http://www.altium.com/altium-designer/overview)
+- [Altium Upverter](https://upverter.com/)
 - [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview) - Weekly dose of handpicked Vue.js news
-- [Upverter](http://kicad-pcb.org/)
-- [KiCAD](http://kicad-pcb.org/) - Tips to become a better Vue.js developer
-- [ORCAD PCB Designer](http://www.orcad.com/)
-- [Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) - Curated newsletter + site covering new Vue.js releases/contributions.
+- [Cadence ORCAD PCB Designer](http://www.orcad.com/)
+- [Cadence Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) 
+- [Siemens Mentor Graphics](https://www.mentor.com/)
+- [Pulsonix] (https://www.pulsonix.com/)
+- [KiCAD](http://kicad-pcb.org/) 
+- [Wikipedia Comparison](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 
 ### PDM Software
-- [Altium Valut]()
-- [Solidworks Vault Valut]()
+- [Altium Valut](http://www.altium.com/altium-vault/overview#altium-vault)
+- [Solidworks PDM](http://www.solidworks.com/sw/products/product-data-management/packages.htm)
+- [Autodesk Vault](https://www.autodesk.com/products/vault-family/overview)
 
 ### PLM Software
-- [Siemens TeamCenter]()
-- [Dassault Enovia]()
-- [PTC Windchill]()
-- [Arras PLM]()
-- [Arena PLM]()
-- [Aligni PLM]()
-- [Open PLM]()
-- [Proto PLM]()
-- [Kimonex]()
+- [Siemens TeamCenter](https://www.plm.automation.siemens.com/en/products/teamcenter/)
+- [Dassault Enovia](https://www.3ds.com/products-services/enovia/)
+- [PTC Windchill](https://www.ptc.com/en/products/plm/plm-products/windchill)
+- [Arras PLM](http://www.aras.com/)
+- [PDXpert](http://www.buyplm.com/)
+- [Arena PLM](https://www.arenasolutions.com/)
+- [Aligni PLM](https://www.aligni.com/)
+- [Open PLM](http://www.openplm.org/trac)
+- [Open PLM Repo](https://github.com/amarh/openPLM)
+- [Proto PLM](https://protoplm.com/)
+- [Kimonex](http://kimonex.com/)
+- [Odoo PLM](http://www.omniasolutions.eu/page/odooplm)
 
 ### Web Based Engineering Collaboration Tools
-  - [OpenBOM]()
-  - [GrabCAD Workbench]()
-  - [Autodesk 360]()
-  - [Dragon Innovation Planner]()
-  - []()
+- [OpenBOM](https://www.openbom.com/)
+- [GrabCAD Workbench](https://grabcad.com/workbench)
+- [Autodesk 360](https://a360.autodesk.com/drive/)
+- [Dragon Innovation Planner](https://tools.dragoninnovation.com/planner)
+- [Dozuki](http://www.dozuki.com/)
 
 ## Fabrication & Sourcing
 
 ### Mechanical Fabricaiton Services
-- [Fictiv]()
-- [Abricate]()
-- [Proto Labs]()
-- [Quick Parts]()
-- [E-Machine Shop]()
-- [Shapeways]()
-- [Ponoko]()
-- [Sculpteo]()
-- [MakeXYZ]()
-- [3D Hubs]()
-- [Voodoo Manufacturing]()
+- [Fictiv](https://www.fictiv.com/)
+- [Abricate](http://abricate.com/)
+- [Proto Labs](https://www.protolabs.com/)
+- [Quick Parts](https://www.3dsystems.com/quickparts)
+- [E-Machine Shop](https://www.emachineshop.com/)
+- [Xometry](https://www.xometry.com/)
+- [Shapeways](https://www.shapeways.com/)
+- [Ponoko](https://www.ponoko.com/)
+- [Sculpteo](https://www.sculpteo.com/en/)
+- [MakeXYZ](https://www.makexyz.com)
+- [3D Hubs](https://www.3dhubs.com/)
+- [Voodoo Manufacturing](https://voodoomfg.com/)
   
 ### PCB Fabricaiton Services
-- [Tempo Automation]()
-- [OSH Park]()
+- [Tempo Automation](http://www.tempoautomation.com/)
+- [OSH Park](https://oshpark.com/)
+- [Seeed Studio] (https://www.seeedstudio.com/)
+- [PCB Way](https://www.pcbway.com/)
+- [Sunstone](http://www.sunstone.com/)
+- [PCB Universe](http://www.pcbuniverse.com/)
+- [PCB Net](http://www.pcbnet.com/)
+- [PCB Cart] (https://www.pcbcart.com/)
+- [Epec](http://www.epectec.com/)
 - []()
 
 ### Parts Aggregators
-- [Octopart]()
-- [TraceParts]()
-- [SnapEDA]()
+- [Altium Octopart](https://octopart.com/)
+- [TraceParts](http://www.traceparts.com//)
+- [SnapEDA](https://www.snapeda.com/)
+- [Ciiva](https://ciiva.com/)
+- [Supplyframe](https://supplyframe.com/)
+- [Supplyframe Parts.io](http://parts.io/)
+- [Supplyframe Findchips] (https://www.findchips.com/)
 
 ### BOM Sourcing
 - [Sandsquid]()
-- []()
+- [Dragon Innovation](https://www.dragoninnovation.com/)
+- [Supplyframe Quote Fx](https://www.quotefx.com/home)
 - []()
 
 ### Parts Suppliers
@@ -126,6 +147,7 @@
 - [Digikey]()
 - [McMasters]()
 - [Carr]()
+- [Mouser]()
 
 ## Open Source Hardware
 
@@ -140,6 +162,7 @@
 - [Wevovler]()
 - [Hackaday.io]()
 - [Instructables]()
+- [My Mini Factory]()
 
 ### Community Projects
 - [RepRap]()
@@ -161,6 +184,7 @@
 - [Re:3D]()
 - [Sparkfun]()
 - [Adafruit]()
+- [SainSmart] ()
 - []()
 
 ### Organizations
@@ -171,6 +195,9 @@
 - []()
 
 ## Misc
+
+### Marketplaces
+- [Tindie]()
 
 ### Incubators, Accelerators, & Funds
 - [HAX]()
@@ -183,6 +210,7 @@
 - [SolidSmack]()
 - [Hackaday]()
 - [Electrical Engineering Video Blog]()
+- [Dangerous Hardware]()
 - []()
 - []()
 
