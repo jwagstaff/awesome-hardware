@@ -181,6 +181,8 @@
 - [SainSmart](https://www.sainsmart.com/)
 - [FarmBot](https://farmbot.io/)
 - [Open Source Beehives](https://www.osbeehives.com/)
+- [MangOh](http://mangoh.io/)
+- [Particle](https://www.particle.io/)
 
 ## Misc
 
