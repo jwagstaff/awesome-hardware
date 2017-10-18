@@ -1,11 +1,11 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
+  <img width="400" src="">
   <br>
   <br>
 </p>
 
-## Awesome Hardware [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hardware 
 
 > A curated list of awesome things related to Hardware Engineering
 
@@ -28,7 +28,7 @@
   - [Workshops & Spaces](#workshops-&-spaces)
   - [Companies](#companies)
   - [Organizations](#organizations)
--[Misc](#misc)
+- [Misc](#misc)
   - [Incubators, Accelerators, & Funds](#incubators,-accelerators,-&-funds)
   - [Blogs & Newsletters](#blogs-&-newsletters)
   - [Guides & Published Resources](#guides-&-pulbished-resources)
