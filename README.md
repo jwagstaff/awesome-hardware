@@ -24,10 +24,8 @@
   - [BOM Sourcing](#bom-sourcing)
 - [Open Source Hardware](#open-source-hardware)
   - [Design Repositories](#design-repositories)
-  - [Community Projects](#communities)
-  - [Workshops & Spaces](#workshops-&-spaces)
+  - [Communities](#communities)
   - [Companies](#companies)
-  - [Organizations](#organizations)
 - [Misc](#misc)
   - [Marketplaces](#marketplaces)
   - [Incubators, Accelerators, & Funds](#incubators,-accelerators,-&-funds)
@@ -117,14 +115,13 @@
 ### PCB Fabricaiton Services
 - [Tempo Automation](http://www.tempoautomation.com/)
 - [OSH Park](https://oshpark.com/)
-- [Seeed Studio] (https://www.seeedstudio.com/)
+- [Seeed Studio](https://www.seeedstudio.com/)
 - [PCB Way](https://www.pcbway.com/)
 - [Sunstone](http://www.sunstone.com/)
 - [PCB Universe](http://www.pcbuniverse.com/)
 - [PCB Net](http://www.pcbnet.com/)
-- [PCB Cart] (https://www.pcbcart.com/)
+- [PCB Cart](https://www.pcbcart.com/)
 - [Epec](http://www.epectec.com/)
-- []()
 
 ### Parts Aggregators
 - [Altium Octopart](https://octopart.com/)
@@ -133,102 +130,87 @@
 - [Ciiva](https://ciiva.com/)
 - [Supplyframe](https://supplyframe.com/)
 - [Supplyframe Parts.io](http://parts.io/)
-- [Supplyframe Findchips] (https://www.findchips.com/)
+- [Supplyframe Findchips](https://www.findchips.com/)
 
 ### BOM Sourcing
-- [Sandsquid]()
+- [Sandsquid](https://www.sandsquid.com)
 - [Dragon Innovation](https://www.dragoninnovation.com/)
 - [Supplyframe Quote Fx](https://www.quotefx.com/home)
-- []()
+- [Supplyframe Polydyne](https://www.polydyne.com/)
 
 ### Parts Suppliers
-- [Avnet]()
-- [Arrow]()
-- [Digikey]()
-- [McMasters]()
-- [Carr]()
-- [Mouser]()
+- [Avnet](https://www.avnet.com/wps/portal/us)
+- [Arrow](https://www.arrow.com/)
+- [Digikey](https://www.digikey.com/)
+- [Mouser](http://www.mouser.com/)
+- [McMaster-Carr](https://www.mcmaster.com/)
 
 ## Open Source Hardware
 
 ### Design Repositories
-- [Thingiverse]()
-- [GrabCAD]()
-- [Upverter]()
-- [GitHub]()
-- [Youmagine]()
-- [OpenBuilds]()
-- [RotorBuilds]()
-- [Wevovler]()
-- [Hackaday.io]()
-- [Instructables]()
-- [My Mini Factory]()
+- [Stratasys Thingiverse](https://www.thingiverse.com/)
+- [Stratasys GrabCAD](https://grabcad.com/)
+- [Altium Upverter](https://upverter.com/explore/parts/)
+- [GitHub](https://github.com/)
+- [Ultimaker Youmagine](https://www.youmagine.com/)
+- [OpenBuilds](https://openbuilds.com/)
+- [RotorBuilds](https://rotorbuilds.com/)
+- [Wevovler](https://www.wevolver.com/)
+- [Hackaday.io](https://hackaday.io/)
+- [Instructables](http://www.instructables.com/technology/)
+- [My Mini Factory](https://www.myminifactory.com/)
 
-### Community Projects
-- [RepRap]()
-- [Raspberry Pi]()
-- [Arduino]()
-- []()
-- []()
-
-### Workshops & Spaces
-- [MIT Fab Lab]()
-- [Techshop]()
-- [Makerspaces.com]()
-- [Hackerspaces.com]()
-- []()
+### Communities
+- [RepRap](http://reprap.org/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino](https://www.arduino.cc/)
+- [MIT Fab Lab](http://fab.cba.mit.edu/)
+- [Techshop](http://www.techshop.ws/)
+- [Makezine](https://makezine.com/)
+- [OSHWA](https://www.oshwa.org/)
+- [Wikihouse](https://wikihouse.cc/)
+- [Opendesk](https://www.opendesk.cc/)
 
 ### Companies
-- [Lulzbot]()
-- [Ultimaker]()
-- [Re:3D]()
-- [Sparkfun]()
-- [Adafruit]()
-- [SainSmart] ()
-- []()
-
-### Organizations
-- [OSHWA]()
-- [OSHCON]()
-- []()
-- []()
-- []()
+- [Local Motors](https://localmotors.com/)
+- [Lulzbot](https://www.lulzbot.com/)
+- [Ultimaker](https://ultimaker.com/)
+- [Re:3D](https://re3d.org/)
+- [Sparkfun](https://www.sparkfun.com/)
+- [Adafruit](https://www.adafruit.com/)
+- [SainSmart] (https://www.sainsmart.com/)
+- [FarmBot](https://farmbot.io/)
+- [Open Source Beehives](https://www.osbeehives.com/)
 
 ## Misc
 
 ### Marketplaces
-- [Tindie]()
+- [Supplyframe Tindie](https://www.tindie.com/)
 
 ### Incubators, Accelerators, & Funds
-- [HAX]()
-- [PCH]()
-- [Lemnos Labs]()
-- [Bolt]()
-- [Shenzhen Valley Ventures]()
+- [HAX](https://hax.co/)
+- [PCH Lime Lab](https://www.lime-lab.com/)
+- [Lemnos Labs](http://lemnos.vc/)
+- [Bolt](https://bolt.io/)
+- [Shenzhen Valley Ventures](http://svv.io/)
 
 ### Blogs & Newsletters
-- [SolidSmack]()
-- [Hackaday]()
-- [Electrical Engineering Video Blog]()
-- [Dangerous Hardware]()
-- []()
-- []()
+- [SolidSmack](https://www.solidsmack.com/)
+- [Hackaday](https://hackaday.com/)
+- [Electrical Engineering Video Blog](https://www.eevblog.com/)
+- [Dangerous Prototypes](http://dangerousprototypes.com/blog/)
 
 ### Guides & Published Resources
-- [Upverter Periodic Table of Hardware]()
-- [Upverter Hardware Product Canvas]()
+- [Upverter Periodic Table of Hardware](https://upverter.com/periodic-table/)
+- [Upverter Hardware Product Canvas](https://blog.upverter.com/2013/10/29/the-hardware-product-canvas/)
+- [Creating and Optimizign a BOM](http://www.proto2prod.com/proto2prod/2015/3/11/creating-and-optimizing-a-bill-of-materials-1)
 - [HAX State of Hardware]()
-- []()
-- []()
 
 ### Movies & Videos
-- [Makers: The Next Industrial Revolution]()
-- [Print the Legend]()
-- [Building an Iphone in China]()
-- [YouTube Playlist]()
-- []()
-
-  
+- [Maker: A documentary on the maker movement](http://makerthemovie.com/)
+- [Print the Legend](http://printthefilm.com/)
+- [Building an Iphone in China](https://www.youtube.com/watch?v=leFuF-zoVzA)
+- [YouTube Playlist ... coming soon]()
 
 <br/>
 <br/>
