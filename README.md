@@ -62,6 +62,7 @@
 
 - [Altium Designer](http://www.altium.com/altium-designer/overview)
 - [Altium Upverter](https://upverter.com/)
+- [Altium Circuit Maker](http://www.altium.com/circuitmaker/overview)
 - [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview) - Weekly dose of handpicked Vue.js news
 - [Cadence ORCAD PCB Designer](http://www.orcad.com/)
 - [Cadence Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) 
@@ -122,6 +123,11 @@
 - [PCB Net](http://www.pcbnet.com/)
 - [PCB Cart](https://www.pcbcart.com/)
 - [Epec](http://www.epectec.com/)
+- [Bittele](https://www.7pcb.com/)
+- [PCBCart](https://www.pcbcart.com)
+
+### Noteworthy CMs (Contract Manufacturers)
+- [MacroFab](https://macrofab.com/) - Automated electronics contract manufacturing startup in TX
 
 ### Parts Aggregators
 - [Altium Octopart](https://octopart.com/)
@@ -137,13 +143,16 @@
 - [Dragon Innovation](https://www.dragoninnovation.com/)
 - [Supplyframe Quote Fx](https://www.quotefx.com/home)
 - [Supplyframe Polydyne](https://www.polydyne.com/)
+- [Alibaba](www.alibaba.com)
+- [Global Sources](www.globalsources.com)
 
-### Parts Suppliers
+### Parts Suppliers/Distributors
 - [Avnet](https://www.avnet.com/wps/portal/us)
 - [Arrow](https://www.arrow.com/)
 - [Digikey](https://www.digikey.com/)
 - [Mouser](http://www.mouser.com/)
 - [McMaster-Carr](https://www.mcmaster.com/)
+- [Future Electronics](http://www.futureelectronics.com/en/Pages/index.aspx?OL=US&Language=en-US)
 
 ## Open Source Hardware
 
