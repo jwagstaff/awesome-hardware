@@ -168,6 +168,7 @@
 - [Hackaday.io](https://hackaday.io/)
 - [Instructables](http://www.instructables.com/technology/)
 - [My Mini Factory](https://www.myminifactory.com/)
+- [Hackster](https://www.hackster.io/)
 
 ### Communities
 - [RepRap](http://reprap.org/)
@@ -194,6 +195,11 @@
 - [Particle](https://www.particle.io/)
 
 ## Misc
+
+### Communities & Websites
+- [Engineering.com](https://www.engineering.com/)
+- [HW Massive](https://hardwaremassive.com/)
+- []()
 
 ### Marketplaces
 - [Supplyframe Tindie](https://www.tindie.com/)
