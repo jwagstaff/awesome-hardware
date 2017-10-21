@@ -111,6 +111,7 @@
 - [Sculpteo](https://www.sculpteo.com/en/)
 - [MakeXYZ](https://www.makexyz.com)
 - [3D Hubs](https://www.3dhubs.com/)
+- [FabHub](https://www.fabhub.io/)
 - [Voodoo Manufacturing](https://voodoomfg.com/)
   
 ### PCB Fabrication Services
