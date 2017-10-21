@@ -67,7 +67,7 @@
 - [Cadence ORCAD PCB Designer](http://www.orcad.com/)
 - [Cadence Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) 
 - [Siemens Mentor Graphics](https://www.mentor.com/)
-- [Pulsonix] (https://www.pulsonix.com/)
+- [Pulsonix](https://www.pulsonix.com/)
 - [KiCAD](http://kicad-pcb.org/) 
 - [Wikipedia Comparison](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 
