@@ -131,6 +131,13 @@
 ### Noteworthy CMs (Contract Manufacturers)
 - [MacroFab](https://macrofab.com/) - Automated electronics contract manufacturing startup in TX
 
+### Contract Design Agencies
+- [Dexigner Directory](https://www.dexigner.com/directory/)
+- [IDEO](https://www.ideo.com/)
+- [Frog Design](https://www.frogdesign.com/)
+- [Radicand](http://radicand.com/)
+- [Technology Kitchen](http://www.technologykitchen.com/)
+
 ### Parts Aggregators
 - [Altium Octopart](https://octopart.com/)
 - [TraceParts](http://www.traceparts.com//)
@@ -147,6 +154,7 @@
 - [Supplyframe Polydyne](https://www.polydyne.com/)
 - [Alibaba](www.alibaba.com)
 - [Global Sources](www.globalsources.com)
+- [Digikey BOM Manager](https://www.digikey.com/classic/Help.aspx?id=New%20BOM%20Wizard&site=us&lang=en)
 
 ### Parts Suppliers/Distributors
 - [Avnet](https://www.avnet.com/wps/portal/us)
