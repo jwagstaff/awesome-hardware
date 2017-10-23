@@ -106,6 +106,7 @@
 - [Quick Parts](https://www.3dsystems.com/quickparts)
 - [E-Machine Shop](https://www.emachineshop.com/)
 - [Xometry](https://www.xometry.com/)
+- [Fast Radius](https://www.fastradius.com/)
 - [Shapeways](https://www.shapeways.com/)
 - [Ponoko](https://www.ponoko.com/)
 - [Sculpteo](https://www.sculpteo.com/en/)
