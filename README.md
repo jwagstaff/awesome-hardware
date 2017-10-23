@@ -96,6 +96,7 @@
 - [Autodesk 360](https://a360.autodesk.com/drive/)
 - [Dragon Innovation Planner](https://tools.dragoninnovation.com/planner)
 - [Dozuki](http://www.dozuki.com/)
+- [STEMN SYNC](https://stemn.com/landing) Painless Engineering Versioning
 
 ## Fabrication and Sourcing
 
@@ -179,6 +180,7 @@
 - [Instructables](http://www.instructables.com/technology/)
 - [My Mini Factory](https://www.myminifactory.com/)
 - [Hackster](https://www.hackster.io/)
+- [STEMN Community](https://stemn.com/landing/community) Great Engineering is Open.  Explore open-source projects or contribute your own.
 
 ### Communities
 - [RepRap](http://reprap.org/)
