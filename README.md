@@ -217,6 +217,7 @@
 - [Hackaday](https://hackaday.com/)
 - [Electrical Engineering Video Blog](https://www.eevblog.com/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/)
+- [Engineer vs Designer](https://www.solidsmack.com/series/engineervsdesigner/)
 
 ### Guides & Published Resources
 - [Upverter Periodic Table of Hardware](https://upverter.com/periodic-table/)
