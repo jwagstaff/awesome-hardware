@@ -80,6 +80,7 @@
 - [Siemens TeamCenter](https://www.plm.automation.siemens.com/en/products/teamcenter/)
 - [Dassault Enovia](https://www.3ds.com/products-services/enovia/)
 - [PTC Windchill](https://www.ptc.com/en/products/plm/plm-products/windchill)
+- [Oracle Agile PLM](https://www.oracle.com/applications/agile-product-lifecycle-management/index.html)
 - [Arras PLM](http://www.aras.com/)
 - [PDXpert](http://www.buyplm.com/)
 - [Arena PLM](https://www.arenasolutions.com/)
