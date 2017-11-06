@@ -116,6 +116,7 @@
 - [3D Hubs](https://www.3dhubs.com/)
 - [FabHub](https://www.fabhub.io/)
 - [Voodoo Manufacturing](https://voodoomfg.com/)
+- [SyncFab](https://syncfab.com/)
   
 ### PCB Fabrication Services
 - [Tempo Automation](http://www.tempoautomation.com/)
