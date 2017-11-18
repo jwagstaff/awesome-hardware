@@ -39,9 +39,10 @@
 
 ### Mechanical CAD Kernels
 
-- [Parasolid](https://www.plm.automation.siemens.com/en/products/open/parasolid/index.shtml)
-- [OpenCascade](https://www.opencascade.com/content/core-technology)
-- [CGAL](https://www.cgal.org/)
+- [Parasolid](https://www.plm.automation.siemens.com/en/products/open/parasolid/index.shtml) - Parasolid is the world’s leading 3D solid modeling component software used as the foundation of Siemens PLM’s NX and Solid Edge products. Parasolid is also licensed to many of the leading independent software vendors (ISVs) on a level play field basis. These ISVs develop hundreds of Parasolid-based applications in the product design and analysis market space.
+- [OpenCascade](https://www.opencascade.com/content/core-technology) - Open CASCADE Technology (OCCT), a software development platform providing services for 3D surface and solid modeling, CAD data exchange, and visualization. Most of OCCT functionality is available in the form of C++ libraries. OCCT can be best applied in development of software dealing with 3D modeling (CAD), manufacturing / measuring (CAM) or numerical simulation (CAE).
+- [CGAL](https://www.cgal.org/) - CGAL is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
+
 
 ### Mechanical CAD Software
 
