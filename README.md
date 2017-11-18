@@ -43,21 +43,21 @@
 - [OpenCascade](https://www.opencascade.com/content/core-technology) - Open CASCADE Technology (OCCT), a software development platform providing services for 3D surface and solid modeling, CAD data exchange, and visualization. Most of OCCT functionality is available in the form of C++ libraries. OCCT can be best applied in development of software dealing with 3D modeling (CAD), manufacturing / measuring (CAM) or numerical simulation (CAE).
 - [CGAL](https://www.cgal.org/) - CGAL is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
 
-
 ### Mechanical CAD Software
 
-- [PTC Creo](https://www.ptc.com/en/products/cad/creo)
-- [Siemens NX](https://www.plm.automation.siemens.com/en/products/nx/about-nx-software.shtml)
-- [Dassault Catia](https://www.3ds.com/products-services/catia/)
-- [Siemens Solid Edge](https://www.plm.automation.siemens.com/en/products/solid-edge/)
-- [Dassault Solidworks](http://www.solidworks.com/)
-- [Autodesk AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- [PTC Creo](https://www.ptc.com/en/products/cad/creo) - Imagine, Design, Create, Innovate your products better with PTC Creo. The 3D CAD / CAM / CAE software and solutions for product design and development.
+- [Siemens NX](https://www.plm.automation.siemens.com/en/products/nx/about-nx-software.shtml) - NX 12 delivers the next generation of design, simulation, and manufacturing solutions that enable companies to realize the value of the digital twin.
+- [Dassault Catia](https://www.3ds.com/products-services/catia/) - CATIA is a multi-platform software suite for computer-aided design, computer-aided manufacturing, computer-aided engineering, PLM and 3D, developed by the French company Dassault Systèmes.
+- [Siemens Solid Edge](https://www.plm.automation.siemens.com/en/products/solid-edge/) - Solid Edge is a 3D CAD, parametric feature and synchronous technology solid modeling software. It runs on Microsoft Windows and provides solid modeling, assembly modelling and 2D orthographic view functionality for mechanical designers
+- [Dassault Solidworks](http://www.solidworks.com/) - SolidWorks is a solid modeling computer-aided design and computer-aided engineering computer program that runs on Microsoft Windows. SolidWorks is published by Dassault Systèmes. Wikipedia
+- [Autodesk Product Design & Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview) - Design and make your products with our best Inventor, including fully-integrated simulation and 5-axis CAM with Autodesk Nastran In-CAD and HSM. Get the latest versions of AutoCAD and other products in the collection, and explore cloud-based product development with Fusion 360.
+- [Autodesk AutoCAD](https://www.autodesk.com/products/autocad/overview) - 
 - [Autodesk Fusion360](https://www.autodesk.com/products/fusion-360/overview)
 - [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)
-- [OnShape](https://www.onshape.com/)
-- [FreeCAD](https://www.freecadweb.org/)
-- [OpenSCAD](http://www.openscad.org/)
-- [OpenJSCAD](https://openjscad.org/)
+- [OnShape](https://www.onshape.com/) - Design, version, and share parts, assemblies, and drawings from anywhere for less than your legacy CAD maintenance fees.
+- [FreeCAD](https://www.freecadweb.org/) - FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is open-source and highly customizable, scriptable and extensible.
+- [OpenSCAD](http://www.openscad.org/) - OpenSCAD is software for creating solid 3D CAD objects.  It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
+- [OpenJSCAD](https://openjscad.org/) - OpenJSCAD.org is built on OpenJsCad (Github), which itself was inspired by OpenSCAD.org, and essentially provides a programmers approach to develop 3D models. In particular, this enhancement is tuned towards creating precise models for 3D printing.
 
 ### Electrical CAD Software 
 
