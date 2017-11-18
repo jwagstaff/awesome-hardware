@@ -57,7 +57,7 @@
 - [OnShape](https://www.onshape.com/) - Design, version, and share parts, assemblies, and drawings from anywhere for less than your legacy CAD maintenance fees.
 - [FreeCAD](https://www.freecadweb.org/) - FreeCAD is a parametric 3D modeler made primarily to design real-life objects of any size. Parametric modeling allows you to easily modify your design by going back into your model history and changing its parameters. FreeCAD is open-source and highly customizable, scriptable and extensible.
 - [OpenSCAD](http://www.openscad.org/) - OpenSCAD is software for creating solid 3D CAD objects.  It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
-- [OpenJSCAD](https://openjscad.org/) - OpenJSCAD.org is built on OpenJsCad (Github), which itself was inspired by OpenSCAD.org, and essentially provides a programmers approach to develop 3D models. In particular, this enhancement is tuned towards creating precise models for 3D printing.
+- [OpenJSCAD](https://openjscad.org/) - OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
 
 ### Electrical CAD Software 
 
