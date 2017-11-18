@@ -61,15 +61,15 @@
 
 ### Electrical CAD Software 
 
-- [Altium Designer](http://www.altium.com/altium-designer/overview)
-- [Altium Upverter](https://upverter.com/)
-- [Altium Circuit Maker](http://www.altium.com/circuitmaker/overview)
-- [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview) - Weekly dose of handpicked Vue.js news
-- [Cadence ORCAD PCB Designer](http://www.orcad.com/)
-- [Cadence Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) 
-- [Siemens Mentor Graphics](https://www.mentor.com/)
-- [Pulsonix](https://www.pulsonix.com/)
-- [KiCAD](http://kicad-pcb.org/) 
+- [Altium Designer](http://www.altium.com/altium-designer/overview) - Altium Designer consists of all the tools required to produce a PCB from concept to manufacturing. A suite of comprehensive design editors resides in a single all-encompassing environment allowing the seamless exchange of design data between them. Whether you're capturing a schematic, laying out a PCB, or reviewing MCAD constraints, it truly is a unique experience that provides a natural electronics workflow.
+- [Altium Upverter](https://upverter.com/) - The future of product design.  Rapidly design next-generation electronics, products and IOT devices in the cloud, for free.
+- [Altium Circuit Maker](http://www.altium.com/circuitmaker/overview) - A free community-driven PCB design tool. The streamlined user interface makes it easy to get started, and an industry leading design platform underneath helps bring your creative ideas to life. Explore the CircuitMaker community of makers, hobbyists, and DIYers to share ideas and find out how to turn those big ideas into real designs.
+- [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview) - EAGLE is a scriptable electronic design automation (EDA) application with schematic capture, printed circuit board (PCB) layout, auto-router and computer-aided manufacturing (CAM) features. EAGLE stands for Easily Applicable Graphical Layout Editor
+- [Cadence ORCAD PCB Designer](http://www.orcad.com/) - OrCAD® PCB Designer is a tiered, scalable PCB design solution that delivers advanced capabilities and highly integrated flows. The powerful, tightly integrated PCB design technologies include schematic capture, librarian tools, PCB editing and routing (PCB Editor), Constraint Manager, signal integrity (included in Professional), autorouting (included in Professional), and optional mixed-signal circuit simulation.
+- [Cadence Allegro PCB Designer](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html) - The Cadence® Allegro® PCB Designer quickly takes simple and complex designs from concept to production in a constraint-driven design system to ensure functionality and manufacturability. Scalable technology allows designers to cost-effectively match all current and future technological and methodological needs for teams, organizations, and projects of all sizes and complexities.
+- [Siemens Mentor Graphics](https://www.mentor.com/) - A lot of different tools in EDA and CAE
+- [Pulsonix](https://www.pulsonix.com/) - Powerful Schematic Capture & PCB Design Software: Pulsonix provides your company with advanced yet affordable, PCB design capability
+- [KiCAD](http://kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
 - [Wikipedia Comparison](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 
 ### PDM Software
