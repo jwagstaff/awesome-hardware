@@ -82,7 +82,8 @@
 - [Dassault Enovia](https://www.3ds.com/products-services/enovia/)
 - [PTC Windchill](https://www.ptc.com/en/products/plm/plm-products/windchill)
 - [Oracle Agile PLM](https://www.oracle.com/applications/agile-product-lifecycle-management/index.html)
-- [Arras PLM](http://www.aras.com/)
+- [Arras PLM](http://www.aras.com/) - 
+- [Propel PLM](https://www.propelplm.com/) - Propel's mission is to help you create world-changing products for your customers. Our cloud PLM system helps your engineers, marketing, partners, customers, and everyone else collaborate on all the product information needed to get your products from concept to customer.
 - [PDXpert](http://www.buyplm.com/)
 - [Arena PLM](https://www.arenasolutions.com/)
 - [Aligni PLM](https://www.aligni.com/)
