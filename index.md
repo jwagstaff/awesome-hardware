@@ -1,9 +1,6 @@
-<p align="center">
-  <br>
-  <img width="400" src="">
-  <br>
-  <br>
-</p>
+---
+layout: default
+---
 
 # Awesome Hardware 
 
@@ -215,7 +212,6 @@
 ### Communities & Websites
 - [Engineering.com](https://www.engineering.com/)
 - [HW Massive](https://hardwaremassive.com/)
-- []()
 
 ### Marketplaces
 - [Supplyframe Tindie](https://www.tindie.com/)
